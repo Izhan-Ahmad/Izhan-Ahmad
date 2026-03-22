@@ -4,8 +4,7 @@
 <!--                     HEADER BANNER                           -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=180&section=header&text=Izhan%20Ahmad&fontSize=60&fontColor=38bdf8&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20GHL%20Architect&descSize=16&descAlignY=70&descColor=94a3b8" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=180&section=header&text=Izhan%20Ahmad&fontSize=70&fontColor=00d4ff&animation=fadeIn&stroke=6e40c9&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20GHL%20Architect&descSize=16&descAlignY=70&descColor=a78bfa" width="100%"/>
 <!-- ============================================================ -->
 <!--                   TYPING ANIMATION                          -->
 <!-- ============================================================ -->
