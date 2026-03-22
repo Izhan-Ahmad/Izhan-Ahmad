@@ -214,7 +214,7 @@ const learningNow = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhan-Ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a78bfa&langs_count=8" height="165" alt="Top Languages"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhan-Ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a78bfa&langs_count=8" height="165" alt="Top Languages"/> -->
 
 <br/><br/>
 
