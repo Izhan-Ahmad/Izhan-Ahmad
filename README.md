@@ -4,7 +4,7 @@
 <!--                     HEADER BANNER                           -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a0e2a,100:0d1117&height=200&section=header&text=IZHAN&fontSize=80&fontColor=00d4ff&animation=fadeIn&stroke=6e40c9&strokeWidth=3&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20GHL%20Architect&descSize=18&descAlignY=75&descColor=a78bfa" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a0e2a,100:0d1117&height=200&section=header&text=IZHAN&fontSize=80&fontColor=00d4ff&animation=fadeIn&stroke=6e40c9&strokeWidth=3&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20GHL%20Architect&descSize=18&descAlignY=75&descColor=a78bfa](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=180&section=header&text=Izhan%20Ahmad&fontSize=60&fontColor=38bdf8&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20GHL%20Architect&descSize=16&descAlignY=70&descColor=94a3b8)" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                   TYPING ANIMATION                          -->
@@ -194,214 +194,8 @@ const learningNow = {
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                  FEATURED PROJECTS                          -->
-<!-- ============================================================ -->
 
-<div align="center">
 
-## 🚀 FEATURED PROJECTS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="80%"/>
-
-<br/>
-
-*Engineered for scale. Built for agencies. Deployed in production.*
-
-</div>
-
-<br/>
-
-<!--  PROJECT 1: ALL THE APPS  -->
-<table align="center" width="96%">
-<tr>
-<td>
-
-<div align="left">
-
-### `[01]` &nbsp; 🏗️ ALL THE APPS — *GHL Agency Suite*
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![GHL](https://img.shields.io/badge/GoHighLevel-FF6B35?style=flat-square&logo=g&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-</div>
-
-> A **full-featured SaaS marketplace** built on GoHighLevel — everything an agency needs in one unified platform. Multi-tenant architecture supporting agencies, sub-locations, and their end clients with role-based access control.
-
-**Core Capabilities:**
-- `⚡` Multi-location & multi-agency management with isolated environments
-- `⚡` GHL OAuth2 deep integration — contacts, workflows, custom fields, conversations
-- `⚡` Real-time dashboard powered by Socket.io
-- `⚡` App marketplace with install flows, custom field mapping & automation triggers
-- `⚡` Stripe billing integration + subscription lifecycle management
-- `⚡` Analytics engine with ApexCharts across agency & location tiers
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!--  PROJECT 2: NFC STORE  -->
-<table align="center" width="96%">
-<tr>
-<td>
-
-<div align="left">
-
-### `[02]` &nbsp; 🃏 NFC STORE — *Smart NFC Marketplace*
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![GHL](https://img.shields.io/badge/GoHighLevel-FF6B35?style=flat-square&logo=g&logoColor=white)
-
-</div>
-
-> A **GHL-powered NFC ecommerce marketplace** enabling agencies to sell, manage, and deploy smart NFC cards with dynamic redirect logic, QR code generation, and CRM-linked business profiles.
-
-**Core Capabilities:**
-- `⚡` NFC card lifecycle — create, configure, deploy, and track scans
-- `⚡` Dynamic redirect engine — URL switching, webhook triggers on card scan
-- `⚡` QR code generation & bulk card management operations
-- `⚡` Business profile linking per card with GHL contact sync
-- `⚡` Package & subscription model for NFC product bundles
-- `⚡` Agency whitelabeled storefronts with custom branding
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!--  PROJECT 3: SUPPORT HUB  -->
-<table align="center" width="96%">
-<tr>
-<td>
-
-<div align="left">
-
-### `[03]` &nbsp; 🤖 SUPPORT HUB — *AI-Powered Multi-Tenant Help Desk*
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)
-
-</div>
-
-> An **enterprise-grade support platform** with multi-tenant architecture, AI chatbots, knowledge base management, and real-time ticket collaboration — built to serve agencies, their locations, and end customers simultaneously.
-
-**Core Capabilities:**
-- `⚡` AI agent system with OpenAI + knowledge base RAG pipeline
-- `⚡` Real-time ticket chat powered by Socket.io with live presence
-- `⚡` Multi-level access: Super Admin → Agency → Location → Customer
-- `⚡` 40+ backend route families managing all support operations
-- `⚡` Knowledge base, FAQ management & chatbot training interface
-- `⚡` Deepgram voice transcription + RingCentral phone integration
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!--  PROJECT 4: GHL WIDGET SYSTEM  -->
-<table align="center" width="96%">
-<tr>
-<td>
-
-<div align="left">
-
-### `[04]` &nbsp; 🎛️ GHL WIDGET ENGINE — *Custom Widget Ecosystem*
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GHL](https://img.shields.io/badge/GoHighLevel-FF6B35?style=flat-square&logo=g&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-</div>
-
-> A **modular widget ecosystem** deeply embedded in GoHighLevel — enabling agencies to deploy interactive, data-driven UI widgets that extend the CRM with custom functionality and branded experiences.
-
-**Core Capabilities:**
-- `⚡` Spin-the-wheel gamification widget with configurable prizes
-- `⚡` Chat bubble & notification widgets embedded in GHL dashboards
-- `⚡` Custom button builders, form linkers & page injection tools
-- `⚡` Theme & menu builder with whitelabel support
-- `⚡` Script injection system for cross-platform deployment
-- `⚡` Widget config persisted per agency/location instance
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!--  PROJECT 5: LEVEL UP MARKETPLACE  -->
-<table align="center" width="96%">
-<tr>
-<td>
-
-<div align="left">
-
-### `[05]` &nbsp; 🌐 LEVEL UP MARKETPLACE — *CRM Dashboard & Agency Platform*
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-</div>
-
-> The **core CRM dashboard and app marketplace** — a central hub where agencies onboard, configure integrations, manage locations, and access 40+ third-party service connections from a single control plane.
-
-**Core Capabilities:**
-- `⚡` App marketplace with install flows & OAuth connection management
-- `⚡` 40+ SaaS integrations: ClickUp, Xero, Mailchimp, Pipedrive, Twilio & more
-- `⚡` Snapshot competition engine with voting & leaderboards
-- `⚡` Snapshot store with GHL OAuth for snapshot publishing/purchase
-- `⚡` FullCalendar-powered scheduling for educational & service workflows
-- `⚡` Role-based dashboards: Super Admin / Agency / Location / Client
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <!-- ============================================================ -->
 <!--                   GITHUB STATS                              -->
@@ -415,19 +209,16 @@ const learningNow = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=izhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&text_color=a78bfa&ring_color=00d4ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Izhan-Ahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&text_color=a78bfa&ring_color=00d4ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=izhan&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6e40c9&stroke=6e40c9&currStreakNum=00d4ff&sideNums=00d4ff" height="180" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a78bfa&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izhan-Ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a78bfa&langs_count=8" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Trophy Case -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=izhan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -449,7 +240,7 @@ const learningNow = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=izhan&bg_color=0d1117&color=00d4ff&line=6e40c9&point=a78bfa&area=true&area_color=6e40c9&hide_border=true&radius=8" width="96%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Izhan-Ahmad&bg_color=0d1117&color=00d4ff&line=6e40c9&point=a78bfa&area=true&area_color=6e40c9&hide_border=true&radius=8" width="96%" alt="Contribution Graph"/>
 
 </div>
 
@@ -544,14 +335,13 @@ Modular widget engines, custom GHL embeds, gamification mechanics, and data-rich
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1zhanahmad/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_URL)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izhanahmad123@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izhan)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Izhan-Ahmad)
 <br/><br/>
 
 ```
