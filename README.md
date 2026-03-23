@@ -336,7 +336,7 @@ Modular widget engines, custom GHL embeds, gamification mechanics, and data-rich
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1zhanahmad/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-izhanahmad123-3545s-projects.vercel.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izhanahmad123@gmail.com)
 &nbsp;
